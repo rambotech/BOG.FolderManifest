@@ -1,0 +1,8 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\shell\BOG.FolderManifest]
+@="Folder Manifest"
+
+[HKEY_CLASSES_ROOT\Directory\shell\BOG.FolderManifest\command]
+@="\"c:\\apps\\BOG.FolderManifest\\BOG.FolderManifest.exe\" \"%1\""
+
